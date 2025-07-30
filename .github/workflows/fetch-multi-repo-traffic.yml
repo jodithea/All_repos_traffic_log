@@ -1,4 +1,4 @@
-\name: fetch-repository-stats
+name: fetch-repository-stats
 concurrency: fetch-repository-stats
 
 on:
