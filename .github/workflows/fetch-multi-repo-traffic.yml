@@ -25,6 +25,5 @@ jobs:
         with:
           repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.ghrs_github_api_token }}
-	  databranch: main
-
+          databranch: main
 
