@@ -1,4 +1,4 @@
-name: fetch-repository-stats
+\name: fetch-repository-stats
 concurrency: fetch-repository-stats
 
 on:
@@ -26,3 +26,5 @@ jobs:
           repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.ghrs_github_api_token }}
 	  databranch: main
+
+
