@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Polygenic_score_workshop,70,32
+/jodithea/Polygenic_score_workshop/tree/main,29,5
+/jodithea/Polygenic_score_workshop/blob/main/traffic_log.csv,18,2
+/jodithea/Polygenic_score_workshop/actions/workflows/log-traffic.yml,16,1
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS,15,6
+/jodithea/Polygenic_score_workshop/tree/github-repo-stats,13,1
+/jodithea/Polygenic_score_workshop/tree/main/.github/workflows,12,2
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R,10,4
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluating_Polygenic_Scores.pdf,8,5
+/jodithea/Polygenic_score_workshop/tree/main/01_Create_PGS,7,6
