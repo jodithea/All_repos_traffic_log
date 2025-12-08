@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['jodithea/Polygenic_score_workshop', 'jodithea/Sex_differences_genetics_depression', 'jodithea/Gab_picro_bayesian_analysis']
+        statsRepo: ['jodithea/Polygenic_score_workshop', 'jodithea/Sex_differences_genetics_depression', 'jodithea/Gab_picro_bayesian_analysis', 'jodithea/Tutorial_GWAS_including_X_chromosome']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
