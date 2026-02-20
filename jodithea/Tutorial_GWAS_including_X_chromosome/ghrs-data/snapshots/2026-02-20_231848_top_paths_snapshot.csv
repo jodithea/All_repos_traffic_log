@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main,14,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/02_QC,10,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/01_Genotype_Data,7,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/05_GWAS,5,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/01_Genotype_Data/01_Download_genotype_data_for_tutorial.md,4,1
+/jodithea/Tutorial_GWAS_including_X_chromosome,3,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/02_Sample_QC.sh,2,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/03_Variant_QC_autosomes_XPAR.sh,2,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/03_Imputation,2,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/01_Split_X_chromosome.sh,1,1
