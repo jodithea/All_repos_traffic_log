@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression,17,10
+/jodithea/Sex_differences_genetics_depression/tree/main,10,4
+/jodithea/Sex_differences_genetics_depression/tree/main/03_Meta-analysis,9,3
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats/Females,8,2
+/jodithea/Sex_differences_genetics_depression/tree/main/03_Meta-analysis/Females,8,2
+/jodithea/Sex_differences_genetics_depression/blob/main/02_Format_sumstats/Females/02_Match_to_dbSNP_ref_file.sh,6,2
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats,6,2
+/jodithea/Sex_differences_genetics_depression/tree/main/13_Publication_figures,5,3
+/jodithea/Sex_differences_genetics_depression/blob/main/03_Meta-analysis/Females/02_QC_format_metal_results.sh,5,2
+/jodithea/Sex_differences_genetics_depression/blob/main/06_LDSC/04_Rg/02_Compare_female_male_rg_traits_jack_knife.R,4,4
