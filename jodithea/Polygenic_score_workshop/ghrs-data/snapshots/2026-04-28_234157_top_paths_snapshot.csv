@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Polygenic_score_workshop,30,6
+/jodithea/Polygenic_score_workshop/tree/main/01_Create_PGS,7,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/01_Format_GWAS_sumstats.sh,3,1
+/jodithea/Polygenic_score_workshop/actions,1,1
+/jodithea/Polygenic_score_workshop/blame/main/01_Create_PGS/01_Format_GWAS_sumstats.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/02_a_Impute_GWAS_sumstats.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/02_b_Impute_GWAS_sumstats.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/03_SBayesRC_PGS_weights.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/04_Align_genotype_data_with_SBayesRC.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/05_Plink_PGS_scores.sh,1,1
