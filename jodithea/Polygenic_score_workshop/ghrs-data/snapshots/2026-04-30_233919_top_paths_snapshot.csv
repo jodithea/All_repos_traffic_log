@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Polygenic_score_workshop,40,7
+/jodithea/Polygenic_score_workshop/tree/main/01_Create_PGS,10,2
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/01_Format_GWAS_sumstats.sh,4,2
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/02_a_Impute_GWAS_sumstats.sh,2,2
+/jodithea/Polygenic_score_workshop/issues,2,2
+/jodithea/Polygenic_score_workshop/tree/main,2,1
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS,2,1
+/jodithea/Polygenic_score_workshop/actions,1,1
+/jodithea/Polygenic_score_workshop/blame/main/01_Create_PGS/01_Format_GWAS_sumstats.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/02_b_Impute_GWAS_sumstats.sh,1,1
