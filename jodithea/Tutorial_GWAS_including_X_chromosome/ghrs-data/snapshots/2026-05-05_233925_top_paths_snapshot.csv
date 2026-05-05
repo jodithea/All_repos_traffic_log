@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main,19,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/02_QC,12,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/03_Imputation,8,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/04_Ancestry_Checks,6,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/05_GWAS,5,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/06_Clumping,4,1
+/jodithea/Tutorial_GWAS_including_X_chromosome,3,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/03_Imputation/04_Convert_and_filter_imputed_genotype_data.sh,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/05_GWAS/04_GWAS.sh,2,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/01_Split_X_chromosome.sh,2,1
