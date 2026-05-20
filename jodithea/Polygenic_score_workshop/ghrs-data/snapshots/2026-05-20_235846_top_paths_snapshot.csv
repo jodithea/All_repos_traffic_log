@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Polygenic_score_workshop,10,6
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS,5,1
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R,4,1
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R/Evaluate_PGS_in_R.html,2,1
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R/Scripts/01_Load_packages_and_data.R,2,1
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R/Scripts/02_Logistic_regression.R,2,1
+/jodithea/Polygenic_score_workshop/tree/main/02_Evaluate_PGS/02_Evaluate_PGS_in_R/Scripts,2,1
+/jodithea/Polygenic_score_workshop/blob/main/01_Create_PGS/01_Format_GWAS_sumstats.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluate_PGS/01_Calculate_relatedness.sh,1,1
+/jodithea/Polygenic_score_workshop/blob/main/02_Evaluate_PGS/EUR_relatedness.genome,1,1
