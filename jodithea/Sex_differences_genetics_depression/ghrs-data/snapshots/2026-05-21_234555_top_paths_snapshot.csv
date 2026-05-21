@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression,11,7
+/jodithea/Sex_differences_genetics_depression/blob/main/04_Clumping/01_SNP_list.txt,10,1
+/jodithea/Sex_differences_genetics_depression/blob/main/04_Clumping/02_Clumping_female_autosomes.sh,9,1
+/jodithea/Sex_differences_genetics_depression/blob/main/04_Clumping/02_Clumping_female_Xchr.sh,8,1
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS,6,2
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS/02_GWAS_GxS_example_scripts,5,2
+/jodithea/Sex_differences_genetics_depression/blob/main/02_Format_sumstats/Females/01_Format_sumstats_consistently.txt,4,1
+/jodithea/Sex_differences_genetics_depression/blob/main/02_Format_sumstats/Females/02_Match_to_dbSNP_ref_file.sh,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats,3,2
+/jodithea/Sex_differences_genetics_depression/tree/main/09_Mixer,3,2
