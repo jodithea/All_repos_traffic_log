@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression,17,14
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS/01_UKB_phenotype,11,4
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/02_b_GCTA_sparseGRM_autosomes.sh,11,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/01_filter_LD_prune_SNPs.sh,9,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/02_a_GCTA_GRM_autosomes.sh,9,1
+/jodithea/Sex_differences_genetics_depression/tree/main,8,3
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats,8,3
+/jodithea/Sex_differences_genetics_depression/blob/main/04_Clumping/01_SNP_list.txt,8,2
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS,7,5
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats/Females,7,3
