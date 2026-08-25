@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/02_QC,9,2
+/jodithea/Tutorial_GWAS_including_X_chromosome,5,3
+/jodithea/Tutorial_GWAS_including_X_chromosome/tree/main/05_GWAS,3,2
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/01_Data/04_Download_HRC_reference_panel.md,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/02_Sample_QC.sh,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/04_Variant_QC_XnPAR.sh,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/08_Prepare_Wrayner_checking_tool.sh,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/09_Run_Wrayner_checking_tool.md,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/10_Format_genotype_data_for_imputation.sh,3,1
+/jodithea/Tutorial_GWAS_including_X_chromosome/blob/main/02_QC/05_Text_sex_differences_variants_XnPAR.sh,2,2
