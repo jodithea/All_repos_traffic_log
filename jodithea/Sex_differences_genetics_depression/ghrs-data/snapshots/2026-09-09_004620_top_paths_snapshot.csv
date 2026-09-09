@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS,5,1
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS/02_GWAS_GxS_example_scripts,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main,3,1
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats,2,1
+/jodithea/Sex_differences_genetics_depression,1,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/01_filter_LD_prune_SNPs.sh,1,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/02_a_GCTA_GRM_autosomes.sh,1,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/03_fastGWA_GWAS_binary_autosomes_ChrX.sh,1,1
+/jodithea/Sex_differences_genetics_depression/blob/main/03_Meta-analysis/Females/02_QC_format_metal_results.sh,1,1
+/jodithea/Sex_differences_genetics_depression/blob/main/03_Meta-analysis/Males/02_QC_format_metal_results.sh,1,1
