@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/03_fastGWA_GWAS_binary_autosomes_ChrX.sh,8,1
+/jodithea/Sex_differences_genetics_depression,4,2
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/02_a_GCTA_GRM_autosomes.sh,4,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/04_fastGWA_GEI_autosomes_ChrX.sh,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/01_GWAS/02_GWAS_GxS_example_scripts,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/02_Format_sumstats/GxS,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/08_GWASpw,4,1
+/jodithea/Sex_differences_genetics_depression/tree/main/12_Sensitivity_analyses/GxS_only_Adams_SNPs,4,1
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/02_b_GCTA_sparseGRM_autosomes.sh,3,1
