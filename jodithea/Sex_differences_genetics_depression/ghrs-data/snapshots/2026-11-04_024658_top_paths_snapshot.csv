@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/jodithea/Sex_differences_genetics_depression/blob/main/09_Mixer/03_mixer_test1.pbs,33,3
+/jodithea/Sex_differences_genetics_depression/blob/main/09_Mixer/02_mixer_fit1.pbs,29,3
+/jodithea/Sex_differences_genetics_depression/blob/main/09_Mixer/04_mixer_combine.pbs,25,3
+/jodithea/Sex_differences_genetics_depression/blob/main/09_Mixer/05_mixer_fit2.pbs,13,3
+/jodithea/Sex_differences_genetics_depression/blob/main/09_Mixer/01_munge_allSNPs.pbs,13,2
+/jodithea/Sex_differences_genetics_depression,10,7
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/03_fastGWA_GWAS_binary_autosomes_ChrX.sh,10,3
+/jodithea/Sex_differences_genetics_depression/blob/main/01_GWAS/02_GWAS_GxS_example_scripts/04_fastGWA_GEI_autosomes_ChrX.sh,6,3
+/jodithea/Sex_differences_genetics_depression/tree/main/08_GWASpw,6,3
+/jodithea/Sex_differences_genetics_depression/tree/main/09_Mixer,6,3
